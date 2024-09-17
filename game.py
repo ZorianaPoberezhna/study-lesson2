@@ -42,6 +42,6 @@ def guess_the_word_game():
         print(f"There are still attempts: {attempts}")
     if attempts == 0:
         print(f"You lose. Word: {word}")
-
+#ghbie fewjhb
 guess_the_word_game()
 
