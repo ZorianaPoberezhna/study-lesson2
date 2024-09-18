@@ -11,5 +11,5 @@ result2 = divide_numbers(x, y)
 
 if result2 is not None:
     print(f'{result2}')
-#khkjhkhk
+
 
