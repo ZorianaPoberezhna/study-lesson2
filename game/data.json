@@ -1,0 +1,1 @@
+{"characters": [{"name": "Conan", "attack": 15, "defence": 10, "health": 120, "level": 1, "exp": 0, "crit_chance": 0.1, "crit_damage": 1.5}, {"name": "Merlin", "attack": 20, "defence": 5, "health": 80, "level": 1, "exp": 0, "crit_chance": 0.1, "crit_damage": 1.5}]}
